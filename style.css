@@ -1,0 +1,7 @@
+body {
+  margin: 20px 0 0 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  background-color: #49caf5;
+}
