@@ -1,8 +1,6 @@
-# GAME PROJECT
+# GAME USING PHASER3
 
-I create this repository for a final proyect "Programming Basics".
-
-As project I developed a "Jump & Run" game using [PHASER 3](https://phaser.io/), which is a free and fun open sorce framework for [Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) and [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) powered browser games.
+This "Jump & Run" game developed using [PHASER 3](https://phaser.io/), which is a free and fun open sorce framework for [Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) and [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) powered browser games.
 
 ![Phaser](./screenshots/phaser3.png)
 
